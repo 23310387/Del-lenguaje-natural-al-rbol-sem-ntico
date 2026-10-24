@@ -1,1 +1,1 @@
-# Del-lenguaje-natural-al-rbol-sem-ntico
+# Del lenguaje natural al arbol semantico
